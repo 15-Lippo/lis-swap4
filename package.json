@@ -69,5 +69,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    "dependencies": {
+    "@web3modal/react": "^2.7.1",
+    "@wagmi/core": "^1.4.7",
+    "ethers": "^6.9.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2",
+    "wagmi": "^1.4.7"
+  },
   }
 }
