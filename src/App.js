@@ -15,7 +15,7 @@ const config = createConfig({
 })
 
 function App() {
-  const projectId = "IL_TUO_PROJECT_ID" // Sostituisci con il tuo project ID
+  const projectId = "24277ef4e51151460d840217d95230bf" // Sostituisci con il tuo project ID
     return (
     <WagmiConfig config={config}>
         <AppRoutes />
